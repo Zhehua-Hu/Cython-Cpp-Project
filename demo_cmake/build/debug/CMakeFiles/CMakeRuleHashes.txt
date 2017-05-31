@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+97452134e5df6d01e0bdc2a39ec30084 src/rect.cxx
